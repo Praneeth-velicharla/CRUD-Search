@@ -50,4 +50,4 @@ This project helped me understand Django’s request-response cycle, model manag
 
 Feel free to connect or share your thoughts!
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/praneeth-velicharla) • [GitHub](https://github.com/Praneeth-velicharla)
